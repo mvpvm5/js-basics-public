@@ -1,4 +1,4 @@
-# JavaScript Basics Lesson
+# JavaScript Basics Lesson — practical assignments completed during my studies at Cherkasy State Business College this semester
 
 This project contains exercises to practice fundamental JavaScript concepts. Follow the instructions for each exercise precisely. The automated tests will check your work against these exact requirements.
 
